@@ -1,0 +1,123 @@
+# Query: contac
+# ContextLines: 1
+
+42 results - 8 files
+
+category.html:
+   41                          <li class="nav-item border-right border-secondary">
+   42:                             <a class="nav-link text-body small" href="#">Kontak</a>
+   43                          </li>
+
+  110                      </div>
+  111:                     <a href="kontak.html" class="nav-item nav-link">Kontak</a>
+  112                  </div>
+
+contact.html:
+   41                          <li class="nav-item border-right border-secondary">
+   42:                             <a class="nav-link text-body small" href="#">Kontak</a>
+   43                          </li>
+
+  110                      </div>
+  111:                     <a href="kontak.html" class="nav-item nav-link active">Kontak</a>
+  112                  </div>
+
+  125  
+  126:     <!-- Contact Start -->
+  127      <div class="container-fluid mt-5 pt-3">
+
+  131                      <div class="section-title mb-0">
+  132:                         <h4 class="m-0 text-uppercase font-weight-bold">Hubungi Kami Jika Anda Memiliki Pertanyaan</h4>
+  133                      </div>
+
+  135                          <div class="mb-4">
+  136:                             <h6 class="text-uppercase font-weight-bold">Info Kontak</h6>
+  137:                             <p class="mb-4">Formulir kontak saat ini tidak aktif. Dapatkan formulir kontak yang berfungsi dengan Ajax & PHP dalam beberapa menit. Cukup salin dan tempelkan file,dan tambahkan sedikit kode. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+  138  							<div class="mb-3">
+
+  159                          </div>
+  160:                         <h6 class="text-uppercase font-weight-bold mb-3">Hubungi Kami</h6>
+  161                          <form>
+
+  242      </div>
+  243:     <!-- Contact End -->
+  244  
+
+index.html:
+   41                          <li class="nav-item border-right border-secondary">
+   42:                             <a class="nav-link text-body small" href="#">Kontak</a>
+   43                          </li>
+
+  111                      </div>
+  112:                     <a href="kontak.html" class="nav-item nav-link">Kontak</a>
+  113                  </div>
+
+LICENSE.txt:
+  32  
+  33:  Hubungi kami (https://htmlcodex.com/kontak) jika memiliki pertanyaan.
+  34  
+
+single.html:
+   41                          <li class="nav-item border-right border-secondary">
+   42:                             <a class="nav-link text-body small" href="#">Kontact</a>
+   43                          </li>
+
+  110                      </div>
+  111:                     <a href="kontak.html" class="nav-item nav-link">Kontak</a>
+  112                  </div>
+
+css\style.css:
+  9672  
+  9673: .contact-form .help-block ul {
+  9674    margin: 0;
+
+css\style.min.css:
+  5   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  6: ⟪ 141750 characters skipped ⟫255,255,0), #1e2024);z-index:1}@media (min-width: 768px){.news-lg{height:350px}.news-lg .border{border-left:none !important}}@media (max-width: 767.98px){.news-lg .border{border-top:none !important}}.contact-form .help-block ul{margin:0;padding:0;list-style-type:none}
+
+C:\xampp\htdocs\haninae1\Honey Free Website Template - Free-CSS.com\honey-html\index.html:
+   60                       <li class="nav-item">
+   61:                         <a class="nav-link" href="kontak.html">Hubungi Kami</a>
+   62                       </li>
+
+   99                                   <li class="nav-item">
+  100:                                     <a class="nav-link" href="kontak.html">Kontak kami</a>
+  101                                   </li>
+
+  147                                                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+  148:                                                 <a class="read_more" href="kontak.html">Kontak  </a>
+  149                                               </div>
+
+  169                                                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+  170:                                                 <a class="read_more" href="kontak.html">Kontak  </a>
+  171                                               </div>
+
+  191                                                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+  192:                                                 <a class="read_more" href="kontak.html">Kontak  </a>
+  193                                               </div>
+
+  302        <!-- end quality -->
+  303:       <!-- contact -->
+  304:       <div class="contact">
+  305           <div class="container">
+
+  308                    <div class="titlepage text_align_center">
+  309:                      <h2>Hubungi Kami</h2>
+  310                    </div>
+
+  315                          <div class="col-md-6 ">
+  316:                            <input class="hubungi kami" placeholder="Nama Lengkap" type="type" name=" Nama"> 
+  317                          </div>
+  318                          <div class="col-md-6">
+  319:                            <input class="hubungi kami" placeholder="Email" type="type" name="Email">                          
+  320                          </div>
+  321                          <div class="col-md-6">
+  322:                            <input class="hubungi kami" placeholder="Nomer Telepon" type="type" name="Nomer Telepon">                          
+  323                          </div>
+
+  335        </div>
+  336:       <!-- contact -->
+  337        <!-- honey_bg -->
+
+  384                              <li><a href="kualitas.html">Kualitas</a></li>
+  385:                            <li><a href="kontak.html">Kontak</a></li>
+  386                          </ul>
